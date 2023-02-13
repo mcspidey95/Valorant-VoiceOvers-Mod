@@ -18,6 +18,8 @@ A tool to run Valorant with Japanese or English Voice-overs while retaining Engl
 While switching from Japanese to English, or vice-versa. You will need to **restart the game** again to fix it (It will say, update patch and wont let you play).
 
 Do not open the game manually through original shortcut or by using search or riot client, **USE GIVEN SHORTCUTS ONLY**.
+
+
 ![Screenshot_20230213_055418](https://user-images.githubusercontent.com/90018162/218457497-9ed0e6bc-9ac7-49d6-a120-bf4b5a417bc5.png)
 (Step 1)
 
