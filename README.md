@@ -26,4 +26,4 @@ Do not open the game manually through original shortcut or by using search or ri
 ![Screenshot_20230213_055433](https://user-images.githubusercontent.com/90018162/218457574-c8d2baeb-2985-48dc-86f5-b034b473d3b0.png)
 (Step 4)
 
-**Thanks for Visiting my Repo** 🫠
+**Thanks for Visiting my Repo!** 🫠
